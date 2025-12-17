@@ -79,7 +79,7 @@ streamlit run main.py
 
 ---
 
-🧠 How It Works
+## 🧠 How It Works
 
 User uploads a resume (PDF/TXT)
 
@@ -93,7 +93,7 @@ Feedback is displayed in a clean, readable format
 
 ---
 
-🔐 Security Note
+## 🔐 Security Note
 
 The .env file is intentionally ignored to protect API keys.
 
@@ -101,7 +101,7 @@ Never commit your API keys to public repositories.
 
 ---
 
-🌱 Future Enhancements
+## 🌱 Future Enhancements
 
 Resume scoring & ATS compatibility score
 
