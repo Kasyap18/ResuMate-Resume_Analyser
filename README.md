@@ -39,6 +39,7 @@ ResuMate solves this by acting as a **virtual career coach**, providing structur
 ## 📂 Project Structure
 
 ResuMate/
+
 ├── main.py # Streamlit application
 
 ├── README.md # Project documentation
@@ -76,6 +77,7 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 streamlit run main.py
 
+---
 
 🧠 How It Works
 
@@ -89,11 +91,15 @@ Gemini analyzes the resume as an expert career coach
 
 Feedback is displayed in a clean, readable format
 
+---
+
 🔐 Security Note
 
 The .env file is intentionally ignored to protect API keys.
 
 Never commit your API keys to public repositories.
+
+---
 
 🌱 Future Enhancements
 
